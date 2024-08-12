@@ -1,0 +1,46 @@
+
+.container{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    margin-top:5px;
+    background-color:rgb(48, 47, 47)
+    
+}
+.heading{
+    font-size:30px;
+    font-weight:bold;
+    color:azure;
+    margin:10px;
+}
+.description{
+    margin:10px;
+    height:20px;
+}
+.button{
+    background-color:rgb(76, 76, 156);
+    color:white;
+    border-radius:10px;
+    width:100px;
+    height:40px;
+    border-width:1px;
+    border-color:white;
+}
+.banner{
+    height:50vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+
+}
+.time{
+    font-size:20px;
+
+}
+.link{
+    background-color: rgb(57, 167, 240);
+    color:white;
+    padding:5px;
+}
